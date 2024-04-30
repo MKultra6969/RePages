@@ -8,3 +8,6 @@ Installation:
 4. Navigate in the browser to the link "about:debugging#/runtime/this-firefox".
 5. Click on "Load Temporary Add-on" and select the previously prepared archive.
 6. Enjoy
+
+
+![изображение](https://github.com/FFl0wer1/RePages/assets/40924797/43b531a1-126f-4654-975e-d2eb60f0d045)
