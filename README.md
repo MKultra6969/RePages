@@ -9,7 +9,7 @@ Reloads all open tabs
 5. Click on "Load Temporary Add-on" and select the previously prepared archive.
 6. Enjoy
 
-***To install, use the official Firefox store***
+**To install, use the official** ***[Firefox store](https://addons.mozilla.org/ru/firefox/addon/repages)***
 
 
 ![изображение](https://github.com/FFl0wer1/RePages/assets/40924797/43b531a1-126f-4654-975e-d2eb60f0d045)
