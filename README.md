@@ -1,3 +1,6 @@
+### ❗There will be no more updates❗
+Plugin is useless❗
+
 # RePages
 Reloads all open tabs
       
